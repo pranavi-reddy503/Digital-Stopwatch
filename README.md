@@ -12,3 +12,5 @@ Components Required:
 5.Potentiometer.
 6.Arduino Uno.
 
+Circuit 
+![image](https://github.com/user-attachments/assets/471ce920-d710-4a0d-b002-7b0aef9a78be)
