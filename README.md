@@ -25,10 +25,7 @@ To adjust the LCD contrast, a potentiometer is often used:
 the middle terminal of the potentiometer is connected to the Vo pin (Pin 3 of LCD), while one of the outer terminals connects to 5V and the other to GND.
 
 Code:
-![image](https://github.com/user-attachments/assets/5a25071d-fae3-41b0-9068-07892122fae5)
-![image](https://github.com/user-attachments/assets/3aa22aec-9371-4e68-8712-7f9edba2136d)
-![image](https://github.com/user-attachments/assets/2cc9748b-f577-4f3b-b67f-270c0a7ac74b)
-![image](https://github.com/user-attachments/assets/ff1add8f-a42c-45cb-8c5e-c93583e866b5)
+
 
 
 
