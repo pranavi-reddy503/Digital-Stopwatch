@@ -41,6 +41,12 @@ Output:
 
 ![image](https://github.com/user-attachments/assets/2d883e89-61ca-4350-a259-fdfd06dc3503)
 
+References:
+https://how2electronics.com/stopwatch-arduino-lcd-start-stop-reset-button/
+
+My linkedIn Post:
+https://www.linkedin.com/posts/pranavi-reddy-7815002a9_arduino-embeddedsystems-hardwaredesign-activity-7329152068034654208-fNj-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEpKkFEBVVeymTUWcfDBObNZBsFPKzEz_84
+
 
 
 
